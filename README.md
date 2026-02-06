@@ -1,13 +1,6 @@
 # HBGAT - Hydrogen Bond Graph Attention Network
 The data supporting the findings of this study have been deposited in Zenodo at https://doi.org/10.5281/zenodo.18504015.
 
-## Features
-
-- **Multi-modal Architecture**: Integrates sequence, pocket, SMILES, and hydrogen bond features
-- **Graph Neural Network**: Models hydrogen bond interactions using GNN
-- **Self-Attention Mechanism**: Enhanced feature extraction with 1D self-attention
-- **Dilated Residual Blocks**: Captures multi-scale patterns in sequences and molecules
-
 ## Project Structure
 
 ```
@@ -149,4 +142,5 @@ If you use this code in your research, please cite our paper.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
