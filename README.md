@@ -1,6 +1,5 @@
 # HBGAT - Hydrogen Bond Graph Attention Network
-
-A deep learning model for drug-target binding affinity prediction using multi-modal features including protein sequences, binding pockets, molecular SMILES, and hydrogen bond interactions.
+The data supporting the findings of this study have been deposited in Zenodo at https://doi.org/10.5281/zenodo.18504015.
 
 ## Features
 
@@ -150,3 +149,4 @@ If you use this code in your research, please cite our paper.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
