@@ -2,6 +2,13 @@
 
 A deep learning model for drug-target binding affinity prediction using multi-modal features including protein sequences, binding pockets, molecular SMILES, and hydrogen bond interactions.
 
+## Features
+
+- **Multi-modal Architecture**: Integrates sequence, pocket, SMILES, and hydrogen bond features
+- **Graph Neural Network**: Models hydrogen bond interactions using GNN
+- **Self-Attention Mechanism**: Enhanced feature extraction with 1D self-attention
+- **Dilated Residual Blocks**: Captures multi-scale patterns in sequences and molecules
+
 ## Project Structure
 
 ```
