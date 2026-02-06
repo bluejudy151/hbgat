@@ -1,5 +1,4 @@
 # HBGAT - Hydrogen Bond Graph Attention Network
-The data supporting the findings of this study have been deposited in Zenodo at https://doi.org/10.5281/zenodo.18504015.
 
 ## Project Structure
 
@@ -142,6 +141,7 @@ If you use this code in your research, please cite our paper.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
